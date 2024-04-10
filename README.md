@@ -13,7 +13,7 @@ In the `pubspec.yaml` of your flutter project, add the following dependency:
 ```yaml
 dependencies:
   ...
-  flutter_date_time_picker: "^2.1.0"
+  flutter_date_time_picker: "^1.0.0"
 ```
 
 In your library add the following import:

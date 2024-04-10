@@ -1,7 +1,7 @@
 name: date_time_picker_eazy
 description: "A Flutter widget to display a date time form field to show a date or clock dialog."
-version: 0.0.1
-homepage:
+version: 1.0.0
+homepage: "https://github.com/jasonviipers/flutter_date_time_picker"
 
 environment:
   sdk: '>=3.3.3 <4.0.0'
